@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://samuelmesq.github.io
+title: Samuel Mesquita
+tagline: devlog
+description: things
+paginate: 5
